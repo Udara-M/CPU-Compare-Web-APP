@@ -1,7 +1,7 @@
 # 💻 CPU Comparison Web App
 
 This is a lightweight web application for comparing **Intel** and **AMD Ryzen** processors by generation, model, and key specifications. It includes a filterable dropdown UI, color-coded by brand, with real-time updates when selections change.
-
+Check This - http://cpucompare.liveblog365.com/?i=1
 ---
 
 ## 🚀 Features
